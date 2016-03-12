@@ -1,5 +1,5 @@
 # dribbble_api
 use Dribbble API to get data from Dribbble
 
-LICENSE
+# LICENSE
 MIT OR SOMETHING
